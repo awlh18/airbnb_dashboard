@@ -1,0 +1,12 @@
+name: airbnb
+title: airbnb
+username: awlh18
+account: awlh18
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14254462
+bundleId: 9949322
+url: https://awlh18.shinyapps.io/airbnb/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
